@@ -1,0 +1,2 @@
+# gamebot-sushi
+Setelah sebelumnya kita membahas soal automation, sekarang kita mau bersenang-senang dengan Game Bot. Kita coba bikin komputer untuk main game sendiri. Buat yang mau kasih komentar, kritik, saran, atau mau diskusi bisa langsung ke kolom komentar di bawah ini atau boleh jalur pribadi ke:  Facebook : https://www.facebook.com/yoshuajoe Email         : yoshuajoe@gmail.com  Untuk yang mau nonton video sebelumnya tentang Automation, bisa ke link ini.   https://youtu.be/xbKVqk-Zxjg  Untuk yang mau code-nya bisa ke github saya di sini.
